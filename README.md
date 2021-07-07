@@ -86,7 +86,6 @@ Just now it can detect via ping, UPnP (serial planned).
 - Sonos
 - Stiebel-Eltron/Tecalor ISG (plus)
 - SQL (MySQL, MSSQL, PostgreSQL)
-- Squeezebox
 - SqueezeboxRPC
 - Synology
 - TR-064
@@ -138,6 +137,9 @@ If not all IPs are found then please check that the iobroker user can execute /b
 	### __WORK IN PROGRESS__
 -->
 ## Changelog
+
+### __WORK IN PROGRESS__
+* (UncleSamSwiss) Removed discovery for Squeezebox as it is no longer developed
 
 ### 2.7.0 (2021-07-01)
 * (hacki11) Add discovery for BSBLan and ValloxMV
