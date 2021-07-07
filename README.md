@@ -57,6 +57,7 @@ Just now it can detect via ping, UPnP (serial planned).
 - Lightify
 - Loxone
 - Lupusec
+- Luxtronik 2
 - MAX! Cube
 - McLighting
 - MegaD
@@ -139,6 +140,7 @@ If not all IPs are found then please check that the iobroker user can execute /b
 ## Changelog
 
 ### __WORK IN PROGRESS__
+* (UncleSamSwiss) Add discovery for Luxtronik 2
 * (UncleSamSwiss) Removed discovery for Squeezebox as it is no longer developed
 
 ### 2.7.0 (2021-07-01)
